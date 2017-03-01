@@ -1,0 +1,48 @@
+#Exercise 22: What Do You Know So Far?
+
+puts		imprime en pantalla
+"" 			contienen strings.
+#  			comentarios en ruby
++ 			para sumar o concatenar strings
+– 			para restar
+* 			multiplicar
+/ 			dividir
+% 			modulo o resto
+< > 		menor mayor
+<= 			menor o igual
+>= 			mayor o igual
+= 			asignación
+#{} 		embebe una variable en una string
+string 		cadena de texto
+print 		imprime una linea nueva sin el \n
+''			contienen strings.
+\ 			escape
+\n 			nueva linea
+\\ 			\
+\'			'
+\"			"
+\b 			backspace
+\r  		retorno de carro
+\t 			tabulación
+\v 			tabulación vertical
+gets 		coge el input que mete el usuario
+.chomp  	corta la newline
+.to_i 		convierte a integer
+.to_f 		convierte a decimal
+ARGV    	variable de argument  contiene los argumentos que se le pasan al lanzar el script.
+
+''' 		triple comilla: strings multilinea
+open() 		metodo que toma un nombre de archivo como parametro y devuelve un file object
+$stdin 		standard input
+.read() 	devuelve el contenido del fichero como una string
+.close() 	cierra el fichero
+readline() 	lee solo una linea
+.truncate 	vacia el fichero (pasando el parametro w al abrir el fichero no hace falta).
+
+.write()  	escribe en el fichero
+.length() 	devuelve la longitud del string objetivo
+def   		crea una funcion (define)
+end  		cierra la funcion
+*args 		similar a argv pero para funciones
+.seek() 	busca una posicion en el fichero y te deja ahí
+return 		sale de la funcion y devuelve el valor al que la llama
