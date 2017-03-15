@@ -37,7 +37,8 @@ if door == "1"
       souls = $stdin.gets.chomp
 
       if souls == "1"
-        puts "Solaire kill that poor souls, and toast together."
+        puts "Solaire kills that poor soul, and you toast with him."
+        puts "Praise the sun!".upcase
       elsif 
         souls == "2"
         puts "This never works, you should know by now, the swordsman swing his sword and make your wish to fly a reality, you die falling of a cliff."
