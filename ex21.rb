@@ -29,7 +29,6 @@ iq = divide(100, 2)
 
 puts "Age: #{age}, Height: #{height}, Weight: #{weight}, IQ: #{iq}"
 
-
 # A puzzle for the extra credit, type it in anyway.
 puts "Here is a puzzle."
 

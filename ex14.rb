@@ -1,7 +1,6 @@
 #Exercise 14: Prompting and Passing
 
-
-user_name, edad = ARGV 
+user_name, edad = ARGV
 
 #user_name = ARGV.first # gets the first argument
 

@@ -12,8 +12,5 @@ puts formatter % {
   fourth: "So I said goodnight."
 }
 
-
-
 # para formatear todos con el mismo formato a multiples valores %{}
 # normalmente usamos #{}
-

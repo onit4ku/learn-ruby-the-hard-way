@@ -7,6 +7,4 @@ weight = gets.chomp
 
 puts "So, you're #{age} old, #{height} tall and #{weight} heavy."
 
-
 # chomp borra el salto de linea \n
-
