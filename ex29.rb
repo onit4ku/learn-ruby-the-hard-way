@@ -33,3 +33,18 @@ end
 if people == dogs
   puts "People are dogs."
 end
+
+#Can you put other boolean expressions from Exercise 27 in the if-statement? Try it.
+
+if people != dogs
+  puts "Obviously"
+end
+
+if people < cats && dogs < cats
+  puts "cats are dominating"
+end
+
+=begin
+What happens if you change the initial values for people, cats, and dogs?
+The responses change.
+=end
